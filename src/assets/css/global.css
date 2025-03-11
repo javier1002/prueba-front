@@ -1,0 +1,30 @@
+/* src/css/global.css */
+
+@import url('./variables.css');
+@import url('./typography.css');
+
+body {
+    background-color: var(--while-color);
+    line-height: 1.6;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--while-color);
+    line-height: 1.6;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  .titulo {
+    color: #000080; 
+    font-size: 24px;
+    font-weight: bold;
+  }
+
